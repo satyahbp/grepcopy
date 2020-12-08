@@ -24,3 +24,7 @@ If there's more than one word, like a phrase/sentence, for example "Home sweet h
 If you have to search it from all the existing files, then just put an asterisk (\*) instead of the file names. Example
 
 (Program Name) "Home sweet home." \*
+
+If you use windows, then you can use it in Windows Power Shell or what we commonly call the Command Prompt. Compile the program first, and then run the program using command prompt in a similar way as explained above. 
+
+If you're searching in the files in same folder, then just writing file names is enough. But if you're to search within the files that are present somewhere else, then you have to mention the full address of the files.
